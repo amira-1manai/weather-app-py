@@ -32,5 +32,5 @@ Welcome to the WeatherApp! This project is a Python-based application that provi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/WeatherApp.git
+   git clone https://github.com/amira-1manai/weather-app-py.git
    cd WeatherApp
